@@ -2,7 +2,7 @@ $('document').ready(function() {
     require(['composer', 'composer/controls'], function(composer, controls) {
         composer.addButton('fa fa-eye-slash', function(textarea, selectionStart, selectionEnd) {
 
-            var spoilersTitle = "=NSFW content";
+            var spoilersTitle = "=Gizli İçerik";
             if(selectionStart === selectionEnd){
                 controls.insertIntoTextarea(textarea, "##spoiler=" + spoilersTitle + "\n\n##endspoiler");
                 controls.updateTextareaSelection(textarea, selectionStart + 11 + spoilersTitle.length, selectionStart + 11 + spoilersTitle.length);

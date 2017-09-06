@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-plugin-btn-spoilers",
+  "name": "nodebb-plugin-btn-spoilers-yesilkart",
   "version": "0.4.1",
   "nbbpm": {
     "compatibility": "^1.4.5"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/darktrge/nodebb-plugin-btn-spoilers.git"
+    "url": "git+https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart.git"
   },
   "keywords": [
     "nodebb",
@@ -19,9 +19,10 @@
     "spoilers"
   ],
   "author": "Danijel Marjanović <danijel84@gmail.com> (https://www.linkedin.com/in/danijel-marjanovic-0b17a536)",
+  "contributors": ["Yesilkart Forum"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/darktrge/nodebb-plugin-btn-spoilers/issues"
+    "url": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart/issues"
   },
-  "homepage": "https://github.com/darktrge/nodebb-plugin-btn-spoilers#readme"
+  "homepage": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart#readme"
 }
