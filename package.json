@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart.git"
+    "url": "git+https://github.com/YesilkartForum/nodebb-plugin-btn-spoilers-yesilkart.git"
   },
   "keywords": [
     "nodebb",
@@ -22,7 +22,7 @@
   "contributors": ["Yesilkart Forum"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart/issues"
+    "url": "https://github.com/YesilkartForum/nodebb-plugin-btn-spoilers-yesilkart/issues"
   },
-  "homepage": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart#readme"
+  "homepage": "https://github.com/YesilkartForum/nodebb-plugin-btn-spoilers-yesilkart#readme"
 }
