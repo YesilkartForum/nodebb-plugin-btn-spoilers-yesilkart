@@ -1,5 +1,5 @@
 {
-    "url": "https://github.com/devmach/nodebb-plugin-btn-spoilers-yesilkart/",
+    "url": "https://github.com/YesilkartForum/nodebb-plugin-btn-spoilers-yesilkart",
     "library": "./spoilers.js",
     "staticDirs": {
         "static": "./static"
